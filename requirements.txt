@@ -1,0 +1,16 @@
+pandas
+numpy
+nltk
+numpy
+pandas
+seaborn
+matplotlib
+beautifulsoup4
+nltk
+tensorflow==2.13
+tensorflow-hub==2.13
+scikit-learn
+strictyaml
+tf-models-official
+
+
