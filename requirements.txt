@@ -12,5 +12,6 @@ tensorflow-hub==2.13
 scikit-learn
 strictyaml
 tf-models-official
+tensorflow_text-2.13.0-cp39-cp39-macosx_11_0_arm64.whl
 
 
