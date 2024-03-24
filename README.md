@@ -1,5 +1,5 @@
 # sentiment-classification-bert
-Using bert model to do sentiment classification
+Sentiment classification using Bert model
 
 ## set up the virtual env
 ```python
