@@ -112,3 +112,8 @@ loss, accuracy = classifier_model.evaluate(test_ds)
 
 print(f'Loss: {loss}')
 print(f'Accuracy: {accuracy}')
+
+
+# Save model for later use
+saved_model_path = 'trained_models'
+classifier_model.save(saved_model_path, include_optimizer=False)
